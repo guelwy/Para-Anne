@@ -76,7 +76,7 @@ body{
 }
 .heart {
   position: absolute;
-  top: 52%;
+  top: 53%;
   left: 50%;
   width: 15px;
   height: 15px;
@@ -116,6 +116,7 @@ body{
   transition-delay: 0.4s;
 
 }
+
 
 
 
