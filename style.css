@@ -18,17 +18,12 @@ body{
   justify-content: center;
 }
 
-@media (max-width: 350px) {
-  .envelope-wrapper > .envelope {
-    width: 250px;
-    height: 190px;
+@media (max-width: 300px) {
+  body {
+    font-size: 0.8rem;
   }
-  .envelope > .letter {
-    width: 60%;
-    height: 75%;
-    right: 22%;
-  }
-
+} 
+  
 .container {
   height: 100vh;
   display: grid;
@@ -127,3 +122,4 @@ body{
   transition-delay: 0.4s;
 
 }
+
