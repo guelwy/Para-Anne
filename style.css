@@ -17,12 +17,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
-@media (max-width: 300px) {
-  body {
-    font-size: 0.8rem;
-  }
-} 
   
 .container {
   height: 100vh;
@@ -122,4 +116,5 @@ body{
   transition-delay: 0.4s;
 
 }
+
 
